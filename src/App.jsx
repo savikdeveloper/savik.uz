@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <img className='pngImg' src="../public/images/SarvarLogo.png" alt="savik.uz" />
+      <img className='pngImg' src="./images/pngLogo.png" alt="savik.uz" />
       <h2 className='fio'>Sarvar Yo'ldashov</h2>
       <p className='work'>Software Engineer</p>
       <ul>
