@@ -25,7 +25,6 @@ ul li{
 }
 ul li a i{
   font-size: 30px;
-  /* color: rgb(216, 216, 216); */
 }
 .fio{
   color: white;
@@ -50,4 +49,5 @@ ul li a i{
 .text{
   color: white;
   margin-top: 1%;
+  text-align: center;
 }
