@@ -1,0 +1,53 @@
+body{
+  background-color: #232425;
+}
+
+.pngImg{
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10% 0;
+}
+ul{
+  display: flex;
+}
+ul li{
+  list-style: none;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+ul li a i{
+  font-size: 30px;
+  /* color: rgb(216, 216, 216); */
+}
+.fio{
+  color: white;
+}
+.work{
+  color: white;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.fa-telegram{
+  color: #29a9ea;
+}
+.fa-instagram{
+  color: rgb(224,66,116);
+}
+.fa-youtube{
+  color: rgb(255,0,0);
+}
+.fa-twitter{
+  color: rgb(29,161,242);
+}
+.text{
+  color: white;
+  margin-top: 1%;
+}
