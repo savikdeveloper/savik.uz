@@ -30,7 +30,7 @@ function App() {
           </a>
         </li>
       </ul>
-      <p className='text'>Tez orada saytga yangi dizayn va funksiyanol bo'limlar qo'shiladi...</p>
+      <p className='text'>Tez orada saytga yangi dizayn va funksiyanol bo'limlar qo'shiladi:)...</p>
     </div>
   )
 }
